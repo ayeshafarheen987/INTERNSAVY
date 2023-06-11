@@ -9,7 +9,6 @@
 
 **Data set [link](https://www.kaggle.com/datasets/mohansacharya/graduate-admissions)**
 
-**Web App [link]()**
 
 ### Task 2 : Mall Customers Segmentation Using Unsupervised Machine Learning 
 
@@ -17,7 +16,6 @@
 
 **Data set [link](https://www.kaggle.com/datasets/shwetabh123/mall-customers)**
 
-**Web App [link]()**
 
 ### Task 3 : Customer Segmentation Analysis with Python 
 
@@ -25,4 +23,4 @@
 
 **Data set [link](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)**
 
-**Web App [link]()**
+
