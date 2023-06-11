@@ -1,6 +1,6 @@
 # INTERNSAVY
 
-# [InternSavy](https://www.internsavy.com/) Internship
+# [InternSavy](https://www.internsavy.com/)    Internship
 # Candidate Name : [AYESHA FARHEEN](https://www.linkedin.com/in/ayeshafarheen-/)
 
 ### Task 1 : Graduate Admissions Prediction Using Machine Learning 
